@@ -16,7 +16,7 @@ Generatively Pretrained Transformer (GPT) models, inspired by the paper "Attenti
 - **dickinson_text**: Folder containing input text files.
 - **output**: Folder containing generated text and .pth file.
 
-### 3. SherlockGPT
+### 3. Sherlock-GPT
 
 - **sherlock_gpt.ipynb**: Jupyter notebook for fine-tuning GPT model on Sherlock Holmes dataset.
 - **sherlock_text**: Folder containing input text files.
